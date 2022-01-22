@@ -1,0 +1,4 @@
+1st line in sample3
+2nd line
+3rd line 
+file ended here !
